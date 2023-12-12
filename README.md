@@ -15,11 +15,6 @@ This repository contains the code for a real-time color detection system develop
 - OpenCV library
 - Pandas library
 - NumPy library
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/[your-username]/real-time-color-detection.git
    
 ### Navigate to the cloned directory:
 cd real-time-color-detection
