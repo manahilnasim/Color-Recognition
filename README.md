@@ -21,14 +21,14 @@ This repository contains the code for a real-time color detection system develop
    ```bash
    git clone https://github.com/[your-username]/real-time-color-detection.git
    
-###Navigate to the cloned directory:
+### Navigate to the cloned directory:
 cd real-time-color-detection
-###Install the required dependencies:
+### Install the required dependencies:
 pip install opencv-python pandas numpy
-###Running the Application
+### Running the Application
 Execute the script color_detector.py to start the color detection application:
 python color_detector.py
-###Usage
+### Usage
 Once the application starts, it will access the webcam.
 Click on any point in the video feed to detect the color at that position.
 The detected color's name and RGB values will be displayed on the screen.
